@@ -1,2 +1,2 @@
 # AstroWeek
-Website for AstroWeek - a week long seminar on various topics of astrophysics
+Website for AstroWeek - a week long astro odyssey, aiming to explore the depths of the universe we live in.
